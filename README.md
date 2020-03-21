@@ -1,4 +1,4 @@
-## Docker folding@home conatiner
+## Docker folding@home container
 
 Debian stretch imagine with folding at home set to run as part of the containers team.
 You can override this by adding the flags:
